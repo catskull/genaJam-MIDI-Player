@@ -13,3 +13,5 @@ Required libraries to build:
 Download all and extract all libraries to your Arduino/Libraries folder (under Documents/Arduino/Libraries on macOS).
 
 genaJam relies on [MightyCore](https://github.com/MCUdude/MightyCore), so follow their instructions to install as well. Select the ATmega1284 from the boards menu and leave all other options the default.
+
+Files are restricted to 8 character names and must end in .MID. Format your SD cart to FAT32.
